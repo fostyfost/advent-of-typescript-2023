@@ -1,0 +1,48 @@
+{
+  "name": "advent-of-typescript-2023",
+  "description": "My solutions for https://typehero.dev/aot-2023 event",
+  "keywords": [
+    "TypeScript",
+    "Advent",
+    "Advent of TypeScript",
+    "Happy New Year",
+    "TypeHero",
+    "Vitest"
+  ],
+  "private": true,
+  "license": "MIT",
+  "author": "Fosty Fost",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fostyfost/advent-of-typescript-2023.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fostyfost/advent-of-typescript-2023/issues"
+  },
+  "engines": {
+    "node": ">=20.x"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "vitest --typecheck",
+    "test:ui": "vitest --typecheck --ui",
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "6.14.0",
+    "@typescript-eslint/parser": "6.14.0",
+    "@vitest/ui": "1.0.4",
+    "eslint": "8.55.0",
+    "eslint-config-prettier": "9.1.0",
+    "husky": "8.0.3",
+    "lint-staged": "15.2.0",
+    "prettier": "3.1.1",
+    "type-testing": "0.2.0",
+    "typescript": "5.3.3",
+    "vite": "5.0.9",
+    "vitest": "1.0.4"
+  },
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown"
+  }
+}
