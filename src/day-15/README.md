@@ -1,8 +1,8 @@
 # Day Fifteen
 
-<img src="day-15.png" width="187" height="172" alt="Santa snowball">
+<img src="cover.png" width="187" height="172" alt="Santa snowball">
 
-[Source](https://typehero.dev/challenge/day-15)
+[Solution](solution.ts) | [Source](https://typehero.dev/challenge/day-15)
 
 ## Box The Toys!
 

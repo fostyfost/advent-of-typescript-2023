@@ -1,8 +1,8 @@
 # Day Fourteen
 
-<img src="day-14.png" width="194" height="270" alt="Ornament">
+<img src="cover.png" width="194" height="270" alt="Ornament">
 
-[Source](https://typehero.dev/challenge/day-14)
+[Solution](solution.ts) | [Source](https://typehero.dev/challenge/day-14)
 
 ## Naughty List Decipher
 

@@ -1,8 +1,8 @@
 # Day Ten
 
-<img src="day-10.png" width="177" height="180" alt="Gift">
+<img src="cover.png" width="177" height="180" alt="Gift">
 
-[Source](https://typehero.dev/challenge/day-10)
+[Solution](solution.ts) | [Source](https://typehero.dev/challenge/day-10)
 
 ## Christmas Street Suffix Tester
 

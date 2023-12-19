@@ -1,8 +1,8 @@
 # Day Sixteen
 
-<img src="day-16.png" width="165" height="158" alt="Singing candles">
+<img src="cover.png" width="165" height="158" alt="Singing candles">
 
-[Source](https://typehero.dev/challenge/day-16)
+[Solution](solution.ts) | [Source](https://typehero.dev/challenge/day-16)
 
 ## Find Santa (part 2)
 

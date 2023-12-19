@@ -1,8 +1,8 @@
 # Day Nineteen
 
-<img src="day-19.png" width="171" height="239" alt="Snowman">
+<img src="cover.png" width="171" height="239" alt="Snowman">
 
-[Source](https://typehero.dev/challenge/day-19)
+[Solution](solution.ts) | [Source](https://typehero.dev/challenge/day-19)
 
 ## Help Santa Embezzle Funds
 

@@ -1,8 +1,8 @@
 # Day Eleven
 
-<img src="day-11.png" width="178" height="257" alt="Gingerbread Man">
+<img src="cover.png" width="178" height="257" alt="Gingerbread Man">
 
-[Source](https://typehero.dev/challenge/day-11)
+[Solution](solution.ts) | [Source](https://typehero.dev/challenge/day-11)
 
 ## Protect the List
 

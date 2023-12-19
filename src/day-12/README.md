@@ -1,8 +1,8 @@
 # Day Twelve
 
-<img src="day-12.png" width="173" height="102" alt="Leaf">
+<img src="cover.png" width="173" height="102" alt="Leaf">
 
-[Source](https://typehero.dev/challenge/day-12)
+[Solution](solution.ts) | [Source](https://typehero.dev/challenge/day-12)
 
 ## Find Santa
 

@@ -1,8 +1,8 @@
 # Day Eighteen
 
-<img src="day-18.png" width="174" height="173" alt="Snowflake">
+<img src="cover.png" width="174" height="173" alt="Snowflake">
 
-[Source](https://typehero.dev/challenge/day-18)
+[Solution](solution.ts) | [Source](https://typehero.dev/challenge/day-18)
 
 ## Santa's Remaining Deliveries
 

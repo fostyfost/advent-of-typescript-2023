@@ -1,8 +1,8 @@
 # Day Thirteen
 
-<img src="day-13.png" width="92" height="165" alt="Lollipop">
+<img src="cover.png" width="92" height="165" alt="Lollipop">
 
-[Source](https://typehero.dev/challenge/day-13)
+[Solution](solution.ts) | [Source](https://typehero.dev/challenge/day-13)
 
 ## Count the Days
 

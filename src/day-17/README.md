@@ -1,8 +1,8 @@
 # Day Seventeen
 
-<img src="day-17.png" width="169" height="143" alt="Sled">
+<img src="cover.png" width="169" height="143" alt="Sled">
 
-[Source](https://typehero.dev/challenge/day-17)
+[Solution](solution.ts) | [Source](https://typehero.dev/challenge/day-17)
 
 ## Rock, Paper, Scissors
 
